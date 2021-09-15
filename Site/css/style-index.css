@@ -52,5 +52,17 @@ header{
     transition: transform .5s;
 }
 
+.titel{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 6px;
+}
+
+.foto1 img{
+    width: 500px;
+    height: auto;
+}
 
 

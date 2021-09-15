@@ -23,5 +23,14 @@
             </div>
         </div>
     </header>
+    <br>
+    <main>
+        <div class="titel">
+            <h1>Vrijheid Voor Ieder</h1>
+        </div>
+        <div class="foto1">
+            <img src="../../logo/Dodenherdenking.jpg">
+        </div>
+    </main>
 </body>
 </html>
