@@ -11,7 +11,7 @@
     <header>
         <div class="grid">
             <div class="header-left">
-                <a href="../php/wiezijnwij.php">Wie zijn wij?</a>
+                <a href="../php/wie-zijn-wij.php">Wie zijn wij?</a>
                 <a href="../php/standpunten.php">Standpunten.</a>
             </div>
             <div class="logo">
