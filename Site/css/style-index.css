@@ -1,12 +1,16 @@
+*{
+    padding: 0px;
+    height: 100%;
+}
 body{
-	margin:0px;
-	padding:0px;
-    font-family: 'Montserrat', sans-serif;
+	width: 100%;
+    margin: auto;
 }
 header{
-    height: 100px;
+    height: 110px;
     width: auto;
     background-color: #80ffff;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .header-left a, .header-right a{
@@ -24,20 +28,21 @@ header{
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-top: 5px;
 }
 
 .header-right{
     display: flex;
     justify-content: left;
     align-items: center;
-    padding: 6px;
+    padding-top: 10%;
 }
 
 .header-left{
     display: flex;
     justify-content: right;
     align-items: center;
-    padding: 6px;
+    padding-top: 10%;
     
 }
 
@@ -59,10 +64,30 @@ header{
     align-items: center;
     padding: 6px;
 }
+.banner{
+    background-image: url(../../banner/banner.png);
+    height: 50%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.inner-banner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.inner-banner img{
+    height: 125px;
+    width: auto;
+    padding-bottom: 50px;
+    transition: transform .2s;
+}
 
-.foto1 img{
-    width: 500px;
-    height: auto;
+.inner-banner img:hover{
+    transform: scale(1.1);
+    transition: transfrom .5s;
 }
 
 

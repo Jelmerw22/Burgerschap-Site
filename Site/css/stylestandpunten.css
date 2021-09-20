@@ -1,12 +1,12 @@
 body{
 	margin:0px;
 	padding:0px;
-    font-family: 'Montserrat', sans-serif;
 }
 header{
     height: 100px;
     width: auto;
     background-color: #ffff66;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .header-left a, .header-right a{
