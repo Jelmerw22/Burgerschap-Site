@@ -1,13 +1,9 @@
-*{
-    padding: 0px;
-    height: 100%;
-}
 body{
-	width: 100%;
-    margin: auto;
+	margin:0px;
+	padding:0px;
 }
 header{
-    height: 110px;
+    height: 100px;
     width: auto;
     background-color: #80ffff;
     font-family: 'Montserrat', sans-serif;
@@ -28,21 +24,20 @@ header{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-top: 5px;
 }
 
 .header-right{
     display: flex;
     justify-content: left;
     align-items: center;
-    padding-top: 10%;
+    padding: 6px;
 }
 
 .header-left{
     display: flex;
     justify-content: right;
     align-items: center;
-    padding-top: 10%;
+    padding: 6px;
     
 }
 
@@ -56,38 +51,16 @@ header{
     transform: scale(1.05);
     transition: transform .5s;
 }
-
-.titel{
-    text-align: center;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 6px;
-}
 .banner{
-    background-image: url(../../banner/banner.png);
-    height: 50%;
-    width: 100%;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    position: relative;
-}
-.inner-banner{
     display: flex;
     align-items: center;
     justify-content: center;
-}
-.inner-banner img{
-    height: 125px;
-    width: auto;
-    padding-bottom: 50px;
-    transition: transform .2s;
+    background-image: url(../../banner/bannerback.png);
+    background-repeat: no-repeat;
+    background-position:bottom;
+    background-size: cover;
 }
 
-.inner-banner img:hover{
-    transform: scale(1.1);
-    transition: transfrom .5s;
-}
+
 
 

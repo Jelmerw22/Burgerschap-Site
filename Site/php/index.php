@@ -29,9 +29,8 @@
     </header>
     <main>
         <div class="banner">
-            <div class="inner-banner">
-                <a href="#"><img src="../../logo/logo_small copy.png"></a>
-            </div>
+            <img src="../../banner/banner.png">
         </div>
+    </main>
 </body>
 </html>
