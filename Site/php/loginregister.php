@@ -2,10 +2,13 @@
 <html lang="en">
 <head>
     <title>VrijheidVoorIeder.</title>
-    <link rel="stylesheet" href="../css/style-wie-zijn-wij.css">
+    <link rel="stylesheet" href="../css/styleloginregister.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
 </head>
 <body>
     <header>
@@ -24,20 +27,5 @@
             </div>
         </div>
     </header>
-    <mai>
-        <div class="titel">
-            <h1>Onze politici!</h1>
-        </div>
-        <div class="poli">
-            <ul>Noach Maurits</ul>
-            <ul>Frans Manfred</ul>
-            <ul>Ade Ekwueme Kwadwo</ul>
-            <ul>Yefrem Georgry</ul>
-            <ul>Jin Yu</ul>
-            <ul>Seo-Yeon Min-Su</ul>
-            <ul></ul>
-            <ul>A'isha Mouna</ul>
-        </div>
-    </mai>
 </body>
 </html>

@@ -8,7 +8,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
 </head>
 <body>
-<header>
+    <header>
         <div class="grid">
             <div class="header-left">
                 <a href="../php/wie-zijn-wij.php">Wie zijn wij?</a>
@@ -19,7 +19,7 @@
                 <a href="../php/index.php"><img src="../../logo/logo_small_icon_only.png"></a>
             </div>
             <div class="header-right">
-                <a href="../php/agenda.php">Log In/Register.</a>
+                <a href="../php/loginregister.php">Log In/Register.</a>
                 <a href="../php/contact.php">Contact.</a>
             </div>
         </div>

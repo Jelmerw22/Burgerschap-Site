@@ -5,7 +5,7 @@ body{
 header{
     height: 100px;
     width: auto;
-    background-color: #66ffb3;
+    background-color: #ff6666;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -50,18 +50,6 @@ header{
 .grid :hover{
     transform: scale(1.05);
     transition: transform .5s;
-}
-.titel{
-    font-family: 'Roboto', sans-serif;
-    text-align: center;
-    margin: 5%;
-}
-.poli{
-    font-family: 'Roboto', sans-serif;
-    text-align: center;
-    display: grid;
-    grid-template-columns: auto auto auto;
-    row-gap: 2.5%;
 }
 
 
