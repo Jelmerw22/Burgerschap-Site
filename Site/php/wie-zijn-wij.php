@@ -33,14 +33,14 @@
             <h1>Onze politici!</h1>
         </div>
         <div class="poli">
-            <ul>Noach Maurits</ul>
-            <ul>Frans Manfred</ul>
-            <ul>Ade Ekwueme Kwadwo</ul>
-            <ul>Yefrem Georgry</ul>
-            <ul>Jin Yu</ul>
-            <ul>Seo-Yeon Min-Su</ul>
-            <ul></ul>
-            <ul>A'isha Mouna</ul>
+            <div>Noach Maurits</div>
+            <div> Frans Manfred </div>
+            <div> Ade Ekwueme Kwadwo </div>
+            <div> Yefrem Georgry </div>
+            <div> Jin Yu </div>
+            <div> Seo-Yeon Min-Su </div>
+            <div></div>
+            <div> A'isha Mouna </div>
         </div>
     </mai>
 </body>
