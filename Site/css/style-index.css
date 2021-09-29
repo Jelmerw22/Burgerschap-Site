@@ -108,6 +108,7 @@ button{
 }
 .onzemensen{
     background-color:#80d7ff ;
+    padding: 2px;
 }
 .onzemensen h1{
     display: flex;
@@ -150,7 +151,29 @@ button{
     text-align: center;
     margin-top: 2.5%;
 }
+.buttontxt{
+    text-align: center;
+    padding: 5%;
+}
 
+.contact{
+    background-color: #00aeff;
+    padding: 2.5%;
+    text-align: center;
+    font-family: 'Fira Sans', sans-serif;
+}
+.contact button{
+    font-weight: bold;
+    border: solid;
+    border-width: 1px;
+    background-color: #00aeff;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    transition: transform .2s;
+}
 
 
 

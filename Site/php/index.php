@@ -97,9 +97,11 @@
                 <a href="../php/wie-zijn-wij.php"><button class="button2">Klik hier!</button></a>
             </div>
         </div>
-        <div class="contact">
-
-        </div>
     </main>
+    <footer>
+        <div class="contact">
+            <h2>Heb je vragen over iets? Of wil je wat laten weten? Klik dan op de knop hier onder om met ons in contact te komen!</h2>
+            <a href="../php/contact.php"><button class="button2">Klik hier!</button></a>
+    </footer>
 </body>
 </html>

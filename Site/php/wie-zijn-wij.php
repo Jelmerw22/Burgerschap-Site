@@ -28,7 +28,7 @@
             </div>
         </div>
     </header>
-    <mai>
+    <main>
         <div class="titel">
             <h1>Onze politici!</h1>
         </div>
@@ -42,6 +42,11 @@
             <div></div>
             <div> A'isha Mouna </div>
         </div>
-    </mai>
+    </main>
+    <footer>
+        <div class="contact">
+            <h2>Heb je vragen over iets? Of wil je wat laten weten? Klik dan op de knop hier onder om met ons in contact te komen!</h2>
+            <a href="../php/contact.php"><button class="button2">Klik hier!</button></a>
+    </footer>
 </body>
 </html>
