@@ -33,14 +33,49 @@
             <h1>Onze politici!</h1>
         </div>
         <div class="poli">
-            <div>Noach Maurits</div>
-            <div> Frans Manfred </div>
-            <div> Ade Ekwueme Kwadwo </div>
-            <div> Yefrem Georgry </div>
-            <div> Jin Yu </div>
-            <div> Seo-Yeon Min-Su </div>
+            <div>
+                <H3>Noach Maurits</H3>
+                <img src="../../faces/istockphoto-517998264-612x612.jpg">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, aut quas? Vitae, nam fugit excepturi voluptatibus corrupti dignissimos, harum dolorem, veritatis temporibus animi aliquid voluptates?</p>
+                <a href="#"><button>Noach</button></a>
+            </div>
+            <div>
+                <h3>Frans Manfred</h3>
+                <img src="../../faces/istockphoto-517998264-612x612.jpg">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, aut quas? Vitae, nam fugit excepturi voluptatibus corrupti dignissimos, harum dolorem, veritatis temporibus animi aliquid voluptates?</p>
+                <a href="#"><button>Frans</button></a>
+            </div>
+            <div>
+                <h3>Ade Ekwueme Kwadwo</h3>
+                <img src="../../faces/istockphoto-517998264-612x612.jpg">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, aut quas? Vitae, nam fugit excepturi voluptatibus corrupti dignissimos, harum dolorem, veritatis temporibus animi aliquid voluptates?</p>
+                <a href="#"><button>Ade</button></a>
+            </div>
+            <div>
+                <h3>Yefrem Georgry</h3>
+                <img src="../../faces/istockphoto-517998264-612x612.jpg">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, aut quas? Vitae, nam fugit excepturi voluptatibus corrupti dignissimos, harum dolorem, veritatis temporibus animi aliquid voluptates?</p>
+                <a href="#"><button>Yefrem</button></a>
+            </div>
+            <div>
+                <h3>Jin Yu</h3>
+                <img src="../../faces/istockphoto-517998264-612x612.jpg">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, aut quas? Vitae, nam fugit excepturi voluptatibus corrupti dignissimos, harum dolorem, veritatis temporibus animi aliquid voluptates?</p>
+                <a href="#"><button>Jin</button></a>
+            </div>
+            <div>
+                <h3>Seo-Yeon Min-Su</h3>
+                <img src="../../faces/istockphoto-517998264-612x612.jpg">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, aut quas? Vitae, nam fugit excepturi voluptatibus corrupti dignissimos, harum dolorem, veritatis temporibus animi aliquid voluptates?</p>
+                <a href="#"><button>Seo-Yeon</button></a>
+            </div>
             <div></div>
-            <div> A'isha Mouna </div>
+            <div>
+                <h3>A'isha Mouna</h3>
+                <img src="../../faces/istockphoto-517998264-612x612.jpg">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, aut quas? Vitae, nam fugit excepturi voluptatibus corrupti dignissimos, harum dolorem, veritatis temporibus animi aliquid voluptates?</p>
+                <a href="#"><button>A'isha</button></a>
+            </div>
         </div>
     </main>
     <footer>

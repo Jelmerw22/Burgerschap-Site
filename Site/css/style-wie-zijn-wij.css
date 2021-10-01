@@ -54,23 +54,23 @@ header{
 .titel{
     font-family: 'Roboto', sans-serif;
     text-align: center;
-    margin: 5%;
     font-weight: 500;
 }
 .poli{
     font-family: 'Roboto', sans-serif;
-    font-weight: 700;
-    text-decoration: underline;
     text-align: center;
     display: grid;
     grid-template-columns: auto auto auto;
-    row-gap: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
 }
 .poli img{
     width: 25%;
     height: auto;
 }
 .contact{
+    font-family: 'Fira Sans', sans-serif;
     background-color: #00fc7e;
     padding: 2.5%;
     text-align: center;
@@ -86,6 +86,13 @@ header{
     text-decoration: none;
     font-size: 16px;
     transition: transform .2s;
+}
+.poli button{
+    border: solid;
+    border-width: 1px;
+    padding: 15px 32px;
+    background-color: white;
+    
 }
 
 
