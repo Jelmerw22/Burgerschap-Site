@@ -87,13 +87,77 @@ header{
     font-size: 16px;
     transition: transform .2s;
 }
-.poli button{
+.noach button{
     border: solid;
     border-width: 1px;
     padding: 15px 32px;
-    background-color: white;
+    background-color: #7fff00;
     
 }
+.frans button{
+    border: solid;
+    border-width: 1px;
+    padding: 15px 32px;
+    background-color: #87ceeb;
+    
+}
+.ade button{
+    border: solid;
+    border-width: 1px;
+    padding: 15px 32px;
+    background-color: #ff981a;
+    
+}
+.yefrem button{
+    border: solid;
+    border-width: 1px;
+    padding: 15px 32px;
+    background-color: #d04949;
+    
+}
+.jin button{
+    border: solid;
+    border-width: 1px;
+    padding: 15px 32px;
+    background-color: #00FFFF;
+    
+}
+.seo button{
+    border: solid;
+    border-width: 1px;
+    padding: 15px 32px;
+    background-color: #aa33ff;
+    
+}
+.aisha button{
+    border: solid;
+    border-width: 1px;
+    padding: 15px 32px;
+    background-color: #ff4dff;
+    
+}
+.noach{
+    background-color:#7fff00;
+}
+.frans{
+    background-color: #87ceeb;
+}
+.ade{
+    background-color:#ff981a;
+}
+.yefrem{
+    background-color:#d04949;
+}
+.jin{
+    background-color:#00FFFF;
+}
+.seo{
+    background-color:#aa33ff;
+}
+.aisha{
+    background-color: #ff4dff;
+}
+
 
 
 
