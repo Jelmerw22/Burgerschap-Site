@@ -89,7 +89,7 @@
                 <div class="drie">
                     <a><img src="../../logo/istockphoto-517998264-612x612.jpg"></a>
                     <h3>Seo-Yeon Min-Su</h3>
-                    <p>Seo-Yeon is een jonge dame geboren in Noord-Korea. Om meer over Frans te weten te komen klik op haar foto!</p>
+                    <p>Seo-Yeon is een jonge dame geboren in Noord-Korea. Om meer over Seo-Yeon te weten te komen klik op haar foto!</p>
                 </div>
             </div>
             <div class="buttontxt">
