@@ -47,10 +47,50 @@ header{
     transition: transform .2s;
 }
 
-.grid :hover{
+.grid:hover{
     transform: scale(1.05);
     transition: transform .5s;
 }
 
+.contactform{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    margin: 10%;
+    font-family: 'Sans Fire', sans-serif;
+}
+.contactformtxt p{
+    font-weight: bolder;
+    font-size: small;
+}
+.form{
+    font-family: 'Sans Fire', sans-serif;
+}
+.form-control{
+    font-family: 'Montserrat', sans-serif;
+    width: 100%;
+    margin: 1%;
+    border: solid;
+    font-weight: bold;
+    border-radius: 1px;
+}
+.form-control:hover{
+    transform: scale(1.05);
+    transition: transform .5s;
+}
+.form-control2{
+    text-align: center;
+    width: 50%;
+    height: 30px;
+    background-color: transparent;
+    border: solid;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    border-radius: 1px;
+}
 
-
+.form-control2:hover{
+    background-color: rgba(128, 128, 128, 0.377);
+    transform: scale(1.05);
+    transition: transform .5s;
+}
