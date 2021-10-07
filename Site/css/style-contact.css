@@ -1,6 +1,7 @@
 body{
 	margin:0px;
 	padding:0px;
+    font-family: 'Montserrat', sans-serif;
 }
 header{
     height: 100px;
@@ -57,7 +58,7 @@ header{
     align-items: center;
     justify-content: left;
     margin: 10%;
-    font-family: 'Sans Fire', sans-serif;
+
 }
 .contactformtxt p{
     font-weight: bolder;

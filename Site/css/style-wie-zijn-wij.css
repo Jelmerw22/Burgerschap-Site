@@ -1,6 +1,7 @@
 body{
 	margin:0px;
 	padding:0px;
+    font-family: 'Montserrat', sans-serif;
 }
 header{
     height: 100px;
@@ -52,12 +53,10 @@ header{
     transition: transform .5s;
 }
 .titel{
-    font-family: 'Roboto', sans-serif;
     text-align: center;
     font-weight: 500;
 }
 .poli{
-    font-family: 'Roboto', sans-serif;
     text-align: center;
     display: grid;
     grid-template-columns: auto auto auto;

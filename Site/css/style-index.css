@@ -1,6 +1,7 @@
 body{
 	margin:0px;
 	padding:0px;
+    font-family: 'Montserrat', sans-serif;
 }
 header{
     height: 100px;
@@ -45,7 +46,6 @@ header{
     transition: transform .5s;
 }
 main{
-    font-family: 'Fira Sans', sans-serif;
 }
 .banner{
     display: grid;

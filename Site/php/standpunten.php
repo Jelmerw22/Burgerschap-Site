@@ -25,6 +25,28 @@
         </div>
     </header>
     <main>
+        <Div class="banner">
+            <Div class="txt">
+                <h2>Standpunten.</h2>
+                <h3>Ben je opzoek naar ons standpunt bij bepaalde onderwerpen? hier vind je ze allemaal!</h3>
+            </Div>
+        </Div>
+        <Div class="standpunten">
+            <li class="gridlist">
+                <ul>Werk & Zekerheid.</ul>
+                <ul>Veiligheid & Recht.</ul>
+                <ul>Zorg & Gezondheid.</ul>
+                <ul>Migratie & Integratie.</ul>
+                <ul>Economie & Ondernemen.</ul>
+                <ul>Wonen & Vervoer.</ul>
+                <ul>Klimaat & Duurzaamheid</ul>
+                <ul>Onderwijs & Cultuur.</ul>
+                <ul>Overheid & Democratie.</ul>
+                <ul>Defensie & Buitenland.</ul>
+                <ul>Landbouw & Natuur.</ul>
+                <ul>Vrijheid & Waarden</ul>
+            </li>
+        </Div>
     </main>
     <footer>
         <div class="contact">

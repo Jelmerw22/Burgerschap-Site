@@ -1,6 +1,7 @@
 body{
 	margin:0px;
 	padding:0px;
+    font-family: 'Montserrat', sans-serif;
 }
 header{
     height: 100px;
@@ -44,12 +45,39 @@ header{
 .logo img{
     height: 100px;
     width: 100px;
-    transition: transform .2s;
 }
 
 .header:hover{
     transform: scale(1.2);
     transition: transform .5s;
+}
+.banner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(../../banner/fotos/Horizon.jpg);
+    background-position:bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+}
+.txt{
+    background-color: rgb(247, 247, 176);
+    padding: 15px 32px;
+    border: solid;
+    border-width: 1px;
+    text-align: center;
+}
+.gridlist{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    text-align: center;
+}
+ul{
+    background-color: rgb(247, 247, 176);
+    margin: 2%;
+    font-size: large;
+    font-weight: bold;
 }
 .contact{
     background-color: #f5f500;
@@ -72,5 +100,6 @@ button:hover{
     transform: scale(1.1);
     transition: transforms 0.2s;
 }
+
 
 

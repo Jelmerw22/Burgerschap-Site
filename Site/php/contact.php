@@ -55,3 +55,21 @@
     
 </body>
 </html>
+
+<?php
+    $name = $_POST['name'];
+    $visitor_email = $_POST['email'];
+    $message = $_POST['message'];
+
+    $email_from = 'dusjelmer@gmail.com';
+    $email_subject = 'Mail Burgerschap site';
+    $email_body = 'Gebruikersnaam: $name.\n'.
+                    'Gebruikers E-mail: $visitor_email.\n'.
+                        'Bericht; $message.\n';
+
+    $to = 'dusjelmer@gmail.com';
+    $headers = 'From: $email_from \r\n';
+    $headers = 'Reply-To: $visitor_email \r\n';
+
+    mail($to,$email_subject,$email_body,$headers);
+?>
