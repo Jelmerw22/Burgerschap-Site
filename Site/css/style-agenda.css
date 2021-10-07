@@ -47,8 +47,8 @@ header{
     transition: transform .2s;
 }
 
-.grid:hover{
-    transform: scale(1.05);
+.header:hover{
+    transform: scale(1.2);
     transition: transform .5s;
 }
 .contact{

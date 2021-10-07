@@ -11,16 +11,16 @@
     <header>
         <div class="grid">
             <div class="header-left">
-                <a href="../php/wie-zijn-wij.php">Wie zijn wij?</a>
-                <a href="../php/standpunten.php">Standpunten.</a>
-                <a href="../php/agenda.php">Agenda.</a>
+                <a class="header" href="../php/wie-zijn-wij.php">Wie zijn wij?</a>
+                <a class="header" href="../php/standpunten.php">Standpunten.</a>
+                <a class="header" href="../php/agenda.php">Agenda.</a>
             </div>
             <div class="logo">
-                <a href="../php/index.php"><img src="../../logo/logo_small_icon_only.png"></a>
+                <a class="header" href="../php/index.php"><img src="../../logo/logo_small_icon_only.png"></a>
             </div>
             <div class="header-right">
-                <a href="../php/loginregister.php">Log In/Register.</a>
-                <a href="../php/contact.php">Contact.</a>
+                <a class="header" href="../php/loginregister.php">Log In/Register.</a>
+                <a class="header" href="../php/contact.php">Contact.</a>
             </div>
         </div>
     </header>
