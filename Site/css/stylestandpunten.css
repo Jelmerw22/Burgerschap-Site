@@ -71,13 +71,17 @@ header{
 .gridlist{
     display: grid;
     grid-template-columns: 33% 33% 33%;
-    text-align: center;
 }
 ul{
     background-color: rgb(247, 247, 176);
-    margin: 2%;
     font-size: large;
     font-weight: bold;
+    text-align: center;
+    margin: 2.5%;
+}
+ol{
+    font-weight: normal;
+    text-align: center;
 }
 .contact{
     background-color: #f5f500;
