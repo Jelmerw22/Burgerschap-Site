@@ -94,3 +94,15 @@ header{
     transform: scale(1.05);
     transition: transform .5s;
 }
+.gridcontact{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.imgcontact img{
+    height: 20%;
+    width: auto;
+}
+.imgcontact{
+    display: flex;
+    justify-content: center;
+}

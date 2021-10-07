@@ -28,24 +28,26 @@
         <div class="contactform">
             <div class="gridcontact">
                 <div>
+                    <div class="contactformtxt">
+                        <p>NEEM CONTACT MET ONS OP!</p>
+                        <H3>Heeft u vragen of een opmerking? Neem dan hier contact met ons op!</H3>
+                    </div>
+                    <div class="form">
+                        <form id="contact-form" method="post" action="">
+                            <input name="name" type="text" class="form-control" placeholder="Voornaam." required>
+                            <br>
+                            <input name="achternaam" type="text" class="form-control" placeholder="Achternaam.">
+                            <br>
+                            <input name="email" type="text" class="form-control" placeholder="E-mail." required>
+                            <br>
+                            <textarea name="message" class="form-control" placeholder="Typ hier uw bericht." rows="5" required></textarea>
+                            <br>
+                            <input type="submit" class="form-control2"  value="Verstuur uw bericht.">
+                        </form>
+                    </div>
+                </div>
+                <div class="imgcontact">
                     <img src="../../logo/logo_large.png">
-                </div>
-                <div class="contactformtxt">
-                    <p>NEEM CONTACT MET ONS OP!</p>
-                    <H3>Heeft u vragen of een opmerking? Neem dan hier contact met ons op!</H3>
-                </div>
-                <div class="form">
-                    <form id="contact-form" method="post" action="">
-                        <input name="name" type="text" class="form-control" placeholder="Voornaam." required>
-                        <br>
-                        <input name="achternaam" type="text" class="form-control" placeholder="Achternaam.">
-                        <br>
-                        <input name="email" type="text" class="form-control" placeholder="E-mail." required>
-                        <br>
-                        <textarea name="message" class="form-control" placeholder="Typ hier uw bericht." rows="5" required></textarea>
-                        <br>
-                        <input type="submit" class="form-control2"  value="Verstuur uw bericht.">
-                    </form>
                 </div>
             </div>
         </div>
