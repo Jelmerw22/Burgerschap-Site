@@ -45,8 +45,6 @@ header{
     transform: scale(1.2);
     transition: transform .5s;
 }
-main{
-}
 .banner{
     display: grid;
     grid-template-columns: 50% 50%;
