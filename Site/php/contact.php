@@ -26,7 +26,10 @@
     </header>
     <main>
         <div class="contactform">
-            <div>
+            <div class="gridcontact">
+                <div>
+                    <img src="../../logo/logo_large.png">
+                </div>
                 <div class="contactformtxt">
                     <p>NEEM CONTACT MET ONS OP!</p>
                     <H3>Heeft u vragen of een opmerking? Neem dan hier contact met ons op!</H3>
