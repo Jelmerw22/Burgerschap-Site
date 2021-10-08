@@ -65,6 +65,9 @@
                     <a><img src="../../logo/fi-rr-shield-check.svg"></a>
                 </div>
             </div>
+            <div class="buttonstandpunten">
+                <a href="#"><button class="buttonstandpunten"><h3>Benieuwd naar onze standpunten? Klik dan hier!</h3></button></a>
+            </div>
         </div>
         <div class="onzemensen">
             <h1>Onze mensen.</h1>

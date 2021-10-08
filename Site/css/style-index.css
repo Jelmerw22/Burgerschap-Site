@@ -65,7 +65,7 @@ header{
     align-items: center;
     justify-content: left;
 }
-button{
+.button1{
     font-weight: bold;
     border: solid;
     border-width: 1px;
@@ -175,6 +175,12 @@ button{
 button:hover{
     transform: scale(1.1);
     transition: transforms 0.2s;
+}
+.buttonstandpunten{
+    text-align: center;
+    margin: 2%;
+    background-color: white;
+
 }
 
 

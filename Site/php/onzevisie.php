@@ -27,87 +27,54 @@
     <main>
         <Div class="banner">
             <Div class="txt">
-                <h2>Standpunten.</h2>
-                <h3>Ben je opzoek naar ons standpunt bij bepaalde onderwerpen? hier vind je ze allemaal!</h3>
+                <h2>Onze visie.</h2>
+                <h3>Wil je weten wat onze visie is? Op deze pagina vind je alles over onze visie.</h3>
             </Div>
         </Div>
-        <Div class="standpunten">
-            <li class="gridlist">
-                <ul>
-                    Werk & Zekerheid.
-                    <ol>Ondernemers vrijheid geven in kiesen wat ze willen doen.</ol>
-                    <ol>Beginnende ondernemers ondersteunen.</ol>
-                    <img src="../../logo/briefcase.svg" alt="" width="62.5" height="auto">
-                </ul>
-                <ul>
-                    Veiligheid & Recht.
-                    <ol>Taakstraffen verminderen en meer gevangenis straffen.</ol>
-                    <ol>Meer eigen rechten.</ol>
-                    <img src="../../logo/fi-rr-shield-check.svg" alt="" width="62.5" height="auto">
-                </ul>
-                <ul>
-                    Zorg & Gezondheid.
-                    <ol>Ieder dezelfde zorg.</ol>
-                    <ol>Zorg voor iederen toegankelijk maken.</ol>
-                    <img src="../../logo/fi-rr-heart.svg" alt="" width="62.5" height="auto">
-                </ul>
-                <ul>
-                    Migratie & Integratie.
-                    <ol>Mensen met Nederlandse nationaliteit altijd verzekert van onderdak.</ol>
-                    <ol>Nederlandse nationaliteit makkelijker te verkrijgen.</ol>
-                    <img src="../../logo/fi-rr-home-location-alt.svg" alt="" width="62.5" height="auto">
-                </ul>
-                <ul>
-                    Economie & Ondernemen.
-                    <ol>Overheid uitgaves verlagen.</ol>
-                    <ol>Belasting verlagen.</ol>
-                    <img src="../../logo/euro.png" alt="" width="62.5" height="auto">
+        <div class="visie1">
+            <h3>Politiek-juridisch.</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos laudantium distinctio est quasi, assumenda ipsa ipsam corrupti neque, maxime voluptas numquam vitae ratione dicta recusandae fugit perferendis esse eius delectus sint velit ex ducimus dolorem, nemo pariatur. Voluptas, dolore reiciendis laudantium quae iusto, ut quas omnis provident, cum quia nostrum.</p>
+            <a href="#"><button>Meer lezen? Klik hier.</button></a>
+        </div>
+        <div class="visie2">
+            <h3>Sociaaleconomisch.</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus esse soluta, provident quibusdam voluptas in enim vitae, tenetur odit cumque iure quidem quaerat, eius officia doloremque laudantium mollitia ipsum nostrum rem veniam modi harum cum ex. Eos, nobis molestiae animi aperiam delectus ut eum nisi fugit repellendus odit corporis explicabo.</p>
+            <a href="#"><button>Meer lezen? Klik hier.</button></a>
+        </div>
+        <div class="visie3">
+            <h3>Sociaal-cultureel.</h3>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil nesciunt possimus corrupti, eaque temporibus laudantium. Eveniet ipsam quos incidunt harum ipsum temporibus vero fuga labore, expedita debitis. Animi, deleniti voluptates ratione ad fugiat repellat tempora alias eius? Neque sint nostrum, illum, ad eveniet ipsa esse libero adipisci cupiditate consequatur magni?</p>
+            <a href="#"><button>Meer lezen? Klik hier.</button></a>
+        </div>
+        <div class="standpuntendbackground"> 
+            <div class="standpunten">
+                <h1 class="titelstandpunten">Onze standpunten.</h1>
+                <div class="grid2">
+                    <div class="wz">
+                        <h2>Werk & Zekerheid.</h2>
+                        <a><img src="../../logo/briefcase.svg"></a>
+                    </div>
 
-                </ul>
-                <ul>
-                    Wonen & Vervoer.
-                    <ol>Veel wonen bij bowen maar natuur gebieden in tact houden.</ol>
-                    <ol>Meer tunnels om files en weg drukte te bestrijden.</ol>
-                    <img src="../../logo/home.png" alt="" width="62.5" height="auto">
-                </ul>
-                <ul>
-                    Klimaat & Duurzaamheid.
-                    <ol>Over gaan op kern-energie.</ol>
-                    <ol>Minder uitstoor veroorzaken.</ol>
-                    <img src="../../logo/temperature.png" alt="" width="62.5" height="auto">
-                </ul>
-                <ul>
-                    Onderwijs & Cultuur.
-                    <ol>Goede scholen voor iedereen beschikbaar.</ol>
-                    <ol>Altijd een perspectie voor toekomst houden.</ol>
-                    <img src="../../logo/history.png" alt="" width="62.5" height="auto">
-                </ul>
-                <ul>
-                    Overheid & Democratie.
-                    <ol>Een overheid die zich alleen laat zien als het echt nodig is.</ol>
-                    <ol>Tussentijdse verkiezingen voor gemeentes.</ol>
-                    <img src="../../logo/city-hall.png" alt="" width="62.5" height="auto">
-                </ul>
-                <ul>
-                    Defensie & Buitenland.
-                    <ol>Sterke band opbouwen met EU.</ol>
-                    <ol>Nederlandse militaire beschikbaar stellen voor de belange van EU en Nederland.</ol>
-                    <img src="../../logo/helmet.png" alt="" width="62.5" height="auto">
-                </ul>
-                <ul>
-                    Landbouw & Natuur.
-                    <ol>Subsidies mogelijk voor boeren in moeilijke tijden.</ol>
-                    <ol>Zoveel mogelijk grote natuur gebieden in tact houden.</ol>
-                    <img src="../../logo/planting.png" alt="" width="62.5" height="auto">
-                </ul>
-                <ul>
-                    Vrijheid & Waarden.
-                    <ol>Vrijheid voor ieder.</ol>
-                    <ol>Hoge straffe op elke vorm van discriminatie.</ol>
-                    <img src="../../logo/dove.png" alt="" width="62.5" height="auto">
-                </ul>
-            </li>
-        </Div>
+                    <div class="zg">
+                        <h2>Zorg & Gezondheid.</h2>
+                        <a><img src="../../logo/fi-rr-heart.svg"></a>
+                    </div>
+
+                    <div class="mi">
+                        <h2>Migratie & Integratie.</h2>
+                        <a><img src="../../logo/fi-rr-home-location-alt.svg"></a>
+                    </div>
+
+                    <div class="vr">
+                        <h2>Veiligheid & Recht.</h2>
+                        <a><img src="../../logo/fi-rr-shield-check.svg"></a>
+                    </div>
+                </div>
+            </div>
+            <div class="buttonstandpunten">
+                <a href="#"><button class="buttonstandpunten"><h3>Benieuwd naar onze standpunten? Klik dan hier!</h3></button></a>
+            </div>
+        </div>
     </main>
     <footer>
         <div class="contact">

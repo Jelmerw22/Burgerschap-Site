@@ -68,22 +68,6 @@ header{
     border-width: 1px;
     text-align: center;
 }
-.gridlist{
-    display: grid;
-    grid-template-columns: 33% 33% 33%;
-}
-ul{
-    background-color: rgb(247, 247, 176);
-    font-size: large;
-    font-weight: bold;
-    text-align: center;
-    margin: 2.5%;
-}
-ol{
-    font-weight: normal;
-    text-align: center;
-    margin: 1%;
-}
 .contact{
     background-color: #f5f500;
     padding: 2.5%;
@@ -105,6 +89,56 @@ button:hover{
     transform: scale(1.1);
     transition: transforms 0.2s;
 }
-
-
+.visie1, .visie2, .visie3{
+    margin: 5%;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.visie1 button, .visie2 button, .visie3 button{
+    font-weight: bold;
+    border: solid;
+    border-width: 1px;
+    background-color: white;
+    padding: 7.5px 16px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+    transition: transform .2s;
+}
+.standpuntendbackground{
+    background-color: rgb(247, 247, 176);
+    padding: 2.5%;
+}
+.standpunten{
+    margin: 2.5%;
+}
+.titelstandpunten{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2%;
+}
+.grid2{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+.grid2 img{
+    width: 20%;
+    height: auto;
+}
+.wz h2, .zg h2, .mi h2, .vr h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.wz a, .zg a, .mi a, .vr a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.buttonstandpunten{
+    background-color: rgb(247, 247, 176);
+    text-align: center;
+}
 
