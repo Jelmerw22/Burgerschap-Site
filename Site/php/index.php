@@ -15,7 +15,6 @@
 </head>
 <body>
     <header>
-    <header>
         <div class="grid">
             <div class="header-left">
                 <a class="header" href="../php/wie-zijn-wij.php">Wie zijn wij?</a>

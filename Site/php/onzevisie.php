@@ -34,7 +34,7 @@
         <div class="visie1">
             <h3>Politiek-juridisch.</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos laudantium distinctio est quasi, assumenda ipsa ipsam corrupti neque, maxime voluptas numquam vitae ratione dicta recusandae fugit perferendis esse eius delectus sint velit ex ducimus dolorem, nemo pariatur. Voluptas, dolore reiciendis laudantium quae iusto, ut quas omnis provident, cum quia nostrum.</p>
-            <a href="#"><button>Meer lezen? Klik hier.</button></a>
+            <a href="../php/visie/Politiek-juridisch.php"><button>Meer lezen? Klik hier.</button></a>
         </div>
         <div class="visie2">
             <h3>Sociaaleconomisch.</h3>
