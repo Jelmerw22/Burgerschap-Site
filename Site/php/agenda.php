@@ -13,7 +13,7 @@
         <div class="grid">
             <div class="header-left">
                 <a class="header" href="../php/wie-zijn-wij.php">Wie zijn wij?</a>
-                <a class="header" href="../php/onzevisie.php">Standpunten.</a>
+                <a class="header" href="../php/onzevisie.php">Onze visie.</a>
                 <a class="header" href="../php/agenda.php">Agenda.</a>
             </div>
             <div class="logo">
