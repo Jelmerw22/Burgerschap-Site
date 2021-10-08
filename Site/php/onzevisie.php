@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <title>VrijheidVoorIeder.</title>
-    <link rel="stylesheet" href="../css/stylestandpunten.css">
+    <link rel="stylesheet" href="../css/stylevisie.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
@@ -12,7 +12,7 @@
         <div class="grid">
             <div class="header-left">
                 <a class="header" href="../php/wie-zijn-wij.php">Wie zijn wij?</a>
-                <a class="header" href="../php/standpunten.php">Standpunten.</a>
+                <a class="header" href="../php/onzevisie.php">Standpunten.</a>
                 <a class="header" href="../php/agenda.php">Agenda.</a>
             </div>
             <div class="logo">
