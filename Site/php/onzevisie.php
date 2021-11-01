@@ -52,27 +52,27 @@
                 <div class="grid2">
                     <div class="wz">
                         <h2>Werk & Zekerheid.</h2>
-                        <a><img src="../../logo/briefcase.svg"></a>
+                        <a href="#"><img src="../../logo/briefcase.svg"></a>
                     </div>
 
                     <div class="zg">
                         <h2>Zorg & Gezondheid.</h2>
-                        <a><img src="../../logo/fi-rr-heart.svg"></a>
+                        <a href="#"><img src="../../logo/fi-rr-heart.svg"></a>
                     </div>
 
                     <div class="mi">
                         <h2>Migratie & Integratie.</h2>
-                        <a><img src="../../logo/fi-rr-home-location-alt.svg"></a>
+                        <a href="#"><img src="../../logo/fi-rr-home-location-alt.svg"></a>
                     </div>
 
                     <div class="vr">
                         <h2>Veiligheid & Recht.</h2>
-                        <a><img src="../../logo/fi-rr-shield-check.svg"></a>
+                        <a href="#"><img src="../../logo/fi-rr-shield-check.svg"></a>
                     </div>
                 </div>
             </div>
             <div class="buttonstandpunten">
-                <a href="#"><button class="buttonstandpunten"><h3>Benieuwd naar onze standpunten? Klik dan hier!</h3></button></a>
+                <h3>Benieuwd naar onze standpunten? Klik dan op de plaatjes!</h3>
             </div>
         </div>
     </main>
