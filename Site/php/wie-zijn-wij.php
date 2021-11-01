@@ -23,7 +23,7 @@
                 <a class="header" href="../php/index.php"><img src="../../logo/logo_small_icon_only.png"></a>
             </div>
             <div class="header-right">
-                <a class="header" href="../php/loginregister.php">Log In/Register.</a>
+                <a class="header" href="../php/login/login.php">Log In/Register.</a>
                 <a class="header" href="../php/contact.php">Contact.</a>
             </div>
         </div>

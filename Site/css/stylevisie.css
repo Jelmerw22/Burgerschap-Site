@@ -87,7 +87,7 @@ header{
 }
 button:hover{
     transform: scale(1.1);
-    transition: transforms 0.2s;
+    transition: transforms .2s;
 }
 .visie1, .visie2, .visie3{
     margin: 5%;
@@ -140,5 +140,6 @@ button:hover{
 .buttonstandpunten{
     background-color: rgb(247, 247, 176);
     text-align: center;
+    transition: transforms .2s;
 }
 
