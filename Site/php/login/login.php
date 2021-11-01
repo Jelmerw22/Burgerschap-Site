@@ -126,7 +126,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 <body>
     <div class="wrapper">
         <h2>Login</h2>
-        <p>Please fill in your credentials to login.</p>
+        <p>Vul hier uw gegevens in om in te loggen.</p>
 
         <?php 
         if(!empty($login_err)){
@@ -148,7 +148,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
             <div class="form-group">
                 <input type="submit" class="btn btn-primary" value="Login">
             </div>
-            <p>Don't have an account? <a href="register.php">Sign up now</a>.</p>
+            <p>Heeft u geen account? <a href="register.php">Registreer u hier!</a>.</p>
         </form>
     </div>
 </body>
