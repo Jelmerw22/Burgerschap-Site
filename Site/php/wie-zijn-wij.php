@@ -36,44 +36,44 @@
             <div class="noach">
                 <H3>Noach Maurits</H3>
                 <img src="../../faces/istockphoto-517998264-612x612.jpg">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, aut quas? Vitae, nam fugit excepturi voluptatibus corrupti dignissimos, harum dolorem, veritatis temporibus animi aliquid voluptates?</p>
+                <p>Wil je meer over Noach weten? Klik dan op de knop hieronder!</p>
                 <a href="#"><button>Noach</button></a>
             </div>
             <div class="frans">
                 <h3>Frans Manfred</h3>
                 <img src="../../faces/istockphoto-517998264-612x612.jpg">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, aut quas? Vitae, nam fugit excepturi voluptatibus corrupti dignissimos, harum dolorem, veritatis temporibus animi aliquid voluptates?</p>
+                <p>Wil je meer over Frans weten? Klik dan op de knop hieronder!</p>
                 <a href="#"><button>Frans</button></a>
             </div>
             <div class="ade">
                 <h3>Ade Ekwueme Kwadwo</h3>
                 <img src="../../faces/istockphoto-517998264-612x612.jpg">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, aut quas? Vitae, nam fugit excepturi voluptatibus corrupti dignissimos, harum dolorem, veritatis temporibus animi aliquid voluptates?</p>
+                <p>Wil je meer over Ade weten? Klik dan op de knop hieronder!</p>
                 <a href="#"><button>Ade</button></a>
             </div>
             <div class="yefrem">
                 <h3>Yefrem Georgry</h3>
                 <img src="../../faces/istockphoto-517998264-612x612.jpg">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, aut quas? Vitae, nam fugit excepturi voluptatibus corrupti dignissimos, harum dolorem, veritatis temporibus animi aliquid voluptates?</p>
+                <p>Wil je meer over Yefrem weten? Klik dan op de knop hieronder!</p>
                 <a href="#"><button>Yefrem</button></a>
             </div>
             <div class="jin">
                 <h3>Jin Yu</h3>
                 <img src="../../faces/istockphoto-517998264-612x612.jpg">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, aut quas? Vitae, nam fugit excepturi voluptatibus corrupti dignissimos, harum dolorem, veritatis temporibus animi aliquid voluptates?</p>
+                <p>Wil je meer over Jin weten? Klik dan op de knop hieronder!</p>
                 <a href="#"><button>Jin</button></a>
             </div>
             <div class="seo">
                 <h3>Seo-Yeon Min-Su</h3>
                 <img src="../../faces/istockphoto-517998264-612x612.jpg">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, aut quas? Vitae, nam fugit excepturi voluptatibus corrupti dignissimos, harum dolorem, veritatis temporibus animi aliquid voluptates?</p>
+                <p>Wil je meer over Seo-Yeon weten? Klik dan op de knop hieronder!</p>
                 <a href="#"><button>Seo-Yeon</button></a>
             </div>
             <div></div>
             <div class="aisha">
                 <h3>A'isha Mouna</h3>
                 <img src="../../faces/istockphoto-517998264-612x612.jpg">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, aut quas? Vitae, nam fugit excepturi voluptatibus corrupti dignissimos, harum dolorem, veritatis temporibus animi aliquid voluptates?</p>
+                <p>Wil je meer over A'isha weten? Klik dan op de knop hieronder!</p>
                 <a href="../../partijleden/a'isha.php"><button>A'isha</button></a>
             </div>
         </div>
