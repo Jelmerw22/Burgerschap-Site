@@ -26,7 +26,7 @@
         </div>
     </header>
     <main>
-        
+
     </main>
     <footer>
         <div class="contact">
