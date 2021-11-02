@@ -1,10 +1,12 @@
-.mini-cal{-webkit-user-select:none;
--moz-user-select:none;
--ms-user-select:none;
-user-select:none;font-family:Verdana,sans-serif;
-padding-bottom:1.2em;
-background:#f562f5;
-color:rgb(0, 0, 0)}
+.mini-cal{
+    -webkit-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+    user-select:none;font-family:Verdana,sans-serif;
+    padding-bottom:1.2em;
+    background:#f562f5;
+    color:rgb(0, 0, 0)
+}
 
 #calTitle{
     display:flex;

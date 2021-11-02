@@ -69,7 +69,7 @@
         </div>
     </header>
     <main>
-    <div>
+    <div class="agenda">
 		<div id="calendar"></div>
 	</div>
     </main>
@@ -89,20 +89,9 @@
 	// All dates should be provided in timestamps
 	    var sampleEvents = [
 		{
-			title: "Soulful sundays bay area",
-			date: sameDaylastWeek, // Same day as today, last week
-			link: "https://www.eventbrite.com/e/soulful-sundays-bay-area-edition-tickets-55214242285?aff=ehomecard"
+			title: "Test",
+			date: new Date(11-22-2021), // Same day as today, last week
 		},
-		{
-			title: "London Comicon",
-			date: new Date().getTime(), // Today
-			link: "https://www.eventbrite.co.uk/e/london-film-comic-con-summer-2019-tickets-49472593860?aff=ebdssbdestsearch"
-		},
-		{
-			title: "Youth Athletic Camp",
-			date: someDaynextMonth, // Some day as today, next month
-			link: "https://www.eventbrite.com/e/leaner-stronger-faster-tm-youth-athletic-camp-2021-tickets-38245970728?aff=ebdssbdestsearch"
-		}
 	    ];
 
 		$(document).ready(function(){
