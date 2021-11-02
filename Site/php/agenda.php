@@ -7,6 +7,9 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
     <link href="../css/calendar.css" rel="stylesheet" type="text/css">
+    <link href='https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.1.0/fullcalendar.print.min.css' rel='stylesheet' media='print' />
+    <link rel="stylesheet" href="../php/agenda/agenda.css">
+    <link rel="script" href="../php/agenda/agenda.js">
 </head>
 <body>
 <header>
@@ -26,7 +29,7 @@
         </div>
     </header>
     <main>
-
+   
     </main>
     <footer>
         <div class="contact">
