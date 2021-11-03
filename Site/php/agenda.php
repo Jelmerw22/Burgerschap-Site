@@ -72,6 +72,7 @@
     <div class="agenda">
 		<div id="calendar"></div>
 	</div>
+	
     </main>
     <footer>
         <div class="contact">
@@ -105,5 +106,7 @@
 				events: sampleEvents
 			});
 		});
+
+		
 	</script>
 </html>

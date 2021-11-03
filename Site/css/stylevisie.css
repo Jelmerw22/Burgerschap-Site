@@ -2,6 +2,7 @@ body{
 	margin:0px;
 	padding:0px;
     font-family: 'Montserrat', sans-serif;
+    background-color: #ffffea;
 }
 header{
     height: 100px;
@@ -99,12 +100,12 @@ button:hover{
     font-weight: bold;
     border: solid;
     border-width: 1px;
-    background-color: white;
     padding: 7.5px 16px;
     text-align: center;
     text-decoration: none;
     font-size: 14px;
     transition: transform .2s;
+    background-color: #ffffea;
 }
 .standpuntendbackground{
     background-color: rgb(247, 247, 176);
