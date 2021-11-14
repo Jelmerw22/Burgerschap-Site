@@ -39,7 +39,7 @@
         <div class="visie2">
             <h3>Sociaaleconomisch.</h3>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus esse soluta, provident quibusdam voluptas in enim vitae, tenetur odit cumque iure quidem quaerat, eius officia doloremque laudantium mollitia ipsum nostrum rem veniam modi harum cum ex. Eos, nobis molestiae animi aperiam delectus ut eum nisi fugit repellendus odit corporis explicabo.</p>
-            <a href="#"><button>Meer lezen? Klik hier.</button></a>
+            <a href="../php/visie/Sociaaleconomisch.php"><button>Meer lezen? Klik hier.</button></a>
         </div>
         <div class="visie3">
             <h3>Sociaal-cultureel.</h3>
