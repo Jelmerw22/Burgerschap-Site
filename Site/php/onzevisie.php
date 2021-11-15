@@ -33,18 +33,18 @@
         </Div>
         <div class="visie1">
             <h3>Politiek-juridisch.</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos laudantium distinctio est quasi, assumenda ipsa ipsam corrupti neque, maxime voluptas numquam vitae ratione dicta recusandae fugit perferendis esse eius delectus sint velit ex ducimus dolorem, nemo pariatur. Voluptas, dolore reiciendis laudantium quae iusto, ut quas omnis provident, cum quia nostrum.</p>
+            <p>Dit is hoe wij er politiek juridisch in staan.</p>
             <a href="../php/visie/Politiek-juridisch.php"><button>Meer lezen? Klik hier.</button></a>
         </div>
         <div class="visie2">
             <h3>Sociaaleconomisch.</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus esse soluta, provident quibusdam voluptas in enim vitae, tenetur odit cumque iure quidem quaerat, eius officia doloremque laudantium mollitia ipsum nostrum rem veniam modi harum cum ex. Eos, nobis molestiae animi aperiam delectus ut eum nisi fugit repellendus odit corporis explicabo.</p>
+            <p>Dit is hoe wij er voor staan met Sociaaleconomische visie.</p>
             <a href="../php/visie/Sociaaleconomisch.php"><button>Meer lezen? Klik hier.</button></a>
         </div>
         <div class="visie3">
             <h3>Sociaal-cultureel.</h3>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil nesciunt possimus corrupti, eaque temporibus laudantium. Eveniet ipsam quos incidunt harum ipsum temporibus vero fuga labore, expedita debitis. Animi, deleniti voluptates ratione ad fugiat repellat tempora alias eius? Neque sint nostrum, illum, ad eveniet ipsa esse libero adipisci cupiditate consequatur magni?</p>
-            <a href="#"><button>Meer lezen? Klik hier.</button></a>
+            <p>Dit onzie over het sociaal-culturele aspect.</p>
+            <a href="../php/visie/Sociaal-cultureel.php"><button>Meer lezen? Klik hier.</button></a>
         </div>
         <div class="standpuntendbackground"> 
             <div class="standpunten">
